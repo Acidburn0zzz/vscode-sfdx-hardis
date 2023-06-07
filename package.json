@@ -223,7 +223,7 @@
     "chalk": "^4.1.0",
     "fs-extra": "^9.1.0",
     "git-url-parse": "^11.6.0",
-    "moment": "^2.29.1",
+    "moment": "^2.29.4",
     "npm-api": "^1.0.1",
     "portastic": "^1.0.1",
     "strip-ansi": "^6.0.0",
